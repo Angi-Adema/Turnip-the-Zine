@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3a19b25.chunk.css",
+    "main.js": "/static/js/main.0ca15d3b.chunk.js",
+    "main.js.map": "/static/js/main.0ca15d3b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.392322c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.392322c6.js.map",
+    "static/css/2.438a33e5.chunk.css": "/static/css/2.438a33e5.chunk.css",
+    "static/js/2.84e01c57.chunk.js": "/static/js/2.84e01c57.chunk.js",
+    "static/js/2.84e01c57.chunk.js.map": "/static/js/2.84e01c57.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.438a33e5.chunk.css.map": "/static/css/2.438a33e5.chunk.css.map",
+    "static/css/main.c3a19b25.chunk.css.map": "/static/css/main.c3a19b25.chunk.css.map",
+    "static/js/2.84e01c57.chunk.js.LICENSE.txt": "/static/js/2.84e01c57.chunk.js.LICENSE.txt",
+    "static/media/amzyprofile.575a8995.png": "/static/media/amzyprofile.575a8995.png",
+    "static/media/index.css": "/static/media/turniplogo.2658e1d3.png",
+    "static/media/chitchatprofile.58eee37b.png": "/static/media/chitchatprofile.58eee37b.png",
+    "static/media/all.min.css": "/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/pinkrangerprofile.a1ec883a.png": "/static/media/pinkrangerprofile.a1ec883a.png",
+    "static/media/spinner.7e729fec.gif": "/static/media/spinner.7e729fec.gif",
+    "static/media/title.cc14294a.mp4": "/static/media/title.cc14294a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.392322c6.js",
+    "static/css/2.438a33e5.chunk.css",
+    "static/js/2.84e01c57.chunk.js",
+    "static/css/main.c3a19b25.chunk.css",
+    "static/js/main.0ca15d3b.chunk.js"
+  ]
+}
